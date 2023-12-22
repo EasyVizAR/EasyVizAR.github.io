@@ -137,13 +137,13 @@ Connect HoloLens to a trusted WiFi network and find the IP address of the
 headset. You can use the voice command "what is my IP" or open the system
 settings menu.
 
-Download the msixbundle file on a computer with network access to the Hololens.
-
 Load the device portal webpage using the IP address of the headset. The browser
-may warn about the security of the connection. That is expected.
+may warn about the security of the connection. That is expected and OK.
 
-Navigate to Views, then Apps, and use the Deploy Apps form to install the
-bundle file from your computer.
+Navigate to Views, then Apps. Under the Deploy Apps section, select Network
+and enter the URL for the latest release of our HoloLens app.
+
+    https://github.com/widVE/NIST/releases/download/v1.0.0/EasyVizAR_1.0.0.0_arm64_Master.msixbundle
 
 From the HoloLens application menu, launch the EasyVizAR app. When prompted,
 grant permission for camera and microphone usage.
