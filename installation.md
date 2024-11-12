@@ -153,10 +153,9 @@ will automatically begin tracking and data collection.
 
 # Tutorial Videos
 
-Once the server software is installed, watch the command tutorial video
-video [here](https://youtu.be/HPPaKLYRelc) to learn how to use the most
-commonly-used features.
+Once the server software is installed, watch the [Command Dashboard Tutorial video](https://youtu.be/HPPaKLYRelc)
+to learn how to use the most commonly-used features of the command dashboard.
 
-Likewise, after loading the application on a HoloLens 2 headset, watch the headset
-tutorial video [here](https://youtu.be/6akYBMIhIvE), which covers the features
-of the headset application.
+Likewise, after loading the application on a HoloLens 2 headset, watch the
+[Headset Application Operations video](https://youtu.be/6akYBMIhIvE),
+which covers many of the features developed for the headset application.

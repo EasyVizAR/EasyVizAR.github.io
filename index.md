@@ -17,3 +17,11 @@ different roles.
 For instructions on setting up an edge server and EasyVizAR headsets,
 please refer to the [installation guide](installation.md).
 
+# Usage
+
+The [Command Dashboard Tutoral video](https://youtu.be/HPPaKLYRelc)
+demonstrates the most commonly used features of the command dashboard.
+
+Likewise, the [Headset Application Operations video](https://youtu.be/6akYBMIhIvE)
+demonstrates capabilities developed for the Microsoft HoloLens 2 headset.
+
