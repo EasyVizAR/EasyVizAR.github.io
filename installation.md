@@ -143,10 +143,20 @@ may warn about the security of the connection. That is expected and OK.
 Navigate to Views, then Apps. Under the Deploy Apps section, select Network
 and enter the URL for the latest release of our HoloLens app.
 
-    https://github.com/widVE/NIST/releases/download/v1.0.0/EasyVizAR_1.0.0.0_arm64_Master.msixbundle
+    https://github.com/widVE/NIST/releases/download/v1.1.0/EasyVizAR_1.1.0.0_arm64_Master.msixbundle
 
 From the HoloLens application menu, launch the EasyVizAR app. When prompted,
 grant permission for camera and microphone usage.
 
 Then, while running the EasyVizAR app, if you scan a location QR code, it
 will automatically begin tracking and data collection.
+
+# Tutorial Videos
+
+Once the server software is installed, watch the command tutorial video
+video [here](https://youtu.be/HPPaKLYRelc) to learn how to use the most
+commonly-used features.
+
+Likewise, after loading the application on a HoloLens 2 headset, watch the headset
+tutorial video [here](https://youtu.be/6akYBMIhIvE), which covers the features
+of the headset application.
